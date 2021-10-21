@@ -1,2 +1,2 @@
 #Add file to new branch
-print("test new pranch")
+print("test new branch")
